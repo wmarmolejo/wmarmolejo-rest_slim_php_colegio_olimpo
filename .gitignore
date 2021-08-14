@@ -1,6 +1,2 @@
 ## Dependencias de slim
 /vendor/
-/uploads/
-/piramide-uploader-master/
-composer.lock
-*zip
